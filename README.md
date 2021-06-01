@@ -4,6 +4,7 @@ This was my final project for the class CS231n offered by Stanford University.
 Authors: Matthew Kaplan (mkaplan1@stanford.edu), Avery Rogers (averyr@stanford.edu)
 
 Here is a breakdown of the notebook:
+
 MK AR ADE20k Models Final PDF.pdf
 --> This is a PDF version of the main notebook central to our project. It includes the development, training, and deployment of the models discussed.
 
