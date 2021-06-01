@@ -28,4 +28,5 @@ utils_ade20k.py
 
 
 The ADE20k Dataset, plus the ade20k_starter.ipynb, and utils_ade20k.py scripts courtesy of:
+
 Scene Parsing through ADE20K Dataset. Bolei Zhou, Hang Zhao, Xavier Puig, Sanja Fidler, Adela Barriuso and Antonio Torralba. Computer Vision and Pattern Recognition (CVPR), 2017.
