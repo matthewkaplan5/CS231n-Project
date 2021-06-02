@@ -8,6 +8,9 @@ Here is a breakdown of the notebook:
 MK AR ADE20k Models Final PDF.pdf
 --> This is a PDF version of the main notebook central to our project. It includes the development, training, and deployment of the models discussed.
 
+MK AR CS231n Final Project Writeup.pdf
+--> IMPORTANT: This is a PDF of the final writeup associated with the project. This includes a detailed description of the project, the formulation of the notebook, and a breakdown and our analysis of the results.
+
 ade20k_scene_parser.py
 --> This is a Python script written from scratch by Kaplan and Rogers designed to pull training, validation, and test indices from the ADE20k Dataset for a select number of scenes. It also saves a dictionary mapping scenes to indicies and a dictionary mapping indices to scenes for classification purposes.
 
