@@ -1,5 +1,5 @@
 # Matthew Kaplan and Avery Rogers' CS231n Final Project
-This was my final project for the class CS231n offered by Stanford University.
+This was my final project for the class CS231n offered by Stanford University in Spring 2021.
 
 Authors: Matthew Kaplan (mkaplan1@stanford.edu), Avery Rogers (averyr@stanford.edu)
 
